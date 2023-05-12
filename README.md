@@ -23,7 +23,7 @@
 
 ### :man_technologist: About Me :
   My name is Misal Azeem.
-  I am a Full Stack Developer currently enrolled in <a href="https://www.microverse.org/">Microverse</a> Full stack developer program. 
+  I am a <b>Full Stack Web Developer</b> currently enrolled in <a href="https://www.microverse.org/">Microverse</a> Full stack developer program. 
   <br> I am from Lahore, Pakistan
   <br> My email address is misal.azeem@gmail.com and you can reach out to me at anytime.
   
