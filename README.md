@@ -132,8 +132,8 @@ Four portfolio projects, scoped to be production-grade rather than demos. One is
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=misalazeem&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=480" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misalazeem&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=html,css&card_width=320" />
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=misalazeem&theme=tokyonight" />
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=misalazeem&theme=tokyonight&exclude=html,css" />
 
 <br/>
 
