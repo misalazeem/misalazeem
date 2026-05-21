@@ -1,64 +1,48 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
-  <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/misal-94755a82/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/misal_azeem">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<div id="counter" align="center">
-<img src="https://komarev.com/ghpvc/?username=misalazeem&style=flat-square&color=blue" alt=""/>
-</div>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  ---
-</div><hr>
+### Misal Azeem — AI-First Full Stack Engineer
 
-### :man_technologist: About Me :
-  My name is Misal Azeem.
-  I am a <b>Full Stack Web Developer</b> currently enrolled in <a href="https://www.microverse.org/">Microverse</a> Full stack developer program. 
-  <br> I am from Lahore, Pakistan
-  <br> My email address is misal.azeem@gmail.com and you can reach out to me at anytime.
-  
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+Islamabad, Pakistan · [LinkedIn](https://www.linkedin.com/in/misal-azeem/) · misal.azeem@gmail.com
 
-- :seedling: Exploring AI and Machine Learning.
+I ship production web apps and GenAI systems end to end. 5+ years across JavaScript/TypeScript, Python, and Kotlin, with Go, Ruby, and Rust in the mix. Right now I split my time between frontier-model evaluation work (DeepMind Gemini via Turing, Meridial via Invisible, Revelo) and architecting AI products for clients.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and play music.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/misal-94755a82/)
+If you've ever wondered whether a voice agent can actually *do* the thing instead of just talking about it — I'm probably your kind of engineer.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-original.svg" title="WordPress" **alt="Wordpress" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-plain.svg" title="Ruby" **alt="Ruby" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rails/rails-plain.svg" title="Rails" **alt="Rails" width="40" height="40"/>
-</div>
+#### What I'm building
+
+Four portfolio projects, scoped to be production-grade rather than demos. One is live, three are mid-build.
+
+| Project | What it is |
+|---|---|
+| **[portfolio-voice-agent](https://github.com/misalazeem/portfolio-voice-agent)** | Production-grade voice agent over hybrid RAG with idempotent action handling, YAML-driven domain config, eval harness in CI, full OTel tracing. WebRTC + Pipecat + Qdrant. |
+| **[workflow-engine](https://github.com/misalazeem/workflow-engine)** *(in progress)* | Durable workflow engine in Go with a Remix-based time-travel debugger for inspecting in-flight runs. |
+| **[collab-canvas](https://github.com/misalazeem/collab-canvas)** *(in progress)* | CRDT-backed real-time collaborative whiteboard with offline-first sync. |
+| **[eval-lab](https://github.com/misalazeem/eval-lab)** *(in progress)* | Open LLM evaluation platform with statistically grounded regression detection. |
 
 ---
 
-### :fire: My Stats :
+#### Recent work
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=misalazeem)](https://git.io/streak-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misalazeem&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+- **Turing — POD Lead** *(Jun 2024 → present)*. DeepMind Gemini post-training. RLHF failure-pattern analysis, golden-solution authoring, a multi-month cornerstone code-gen benchmark with Dockerized behavioral verification, and Agent Skills tasks for Gemini 3.1 Pro calibrated to 4-of-5 fail rates across 7 domains. Mentored 12+ contributors.
+- **Invisible Technologies (Meridial AI) — Senior AI SWE & QA Lead** *(Oct 2025 → present)*. SWE-bench-style Kotlin tasks on pinned OSS commits, verifier-grade coding problems across 8+ languages, pairwise agent-trajectory eval for DeepMind.
+- **Crossover — AI First SWE** *(Aug 2025 → Feb 2026)*. Cut Khoros platform EC2 spend 50% by migrating to AWS Graviton ARM64 via Ansible playbooks reading golden AMIs — runtime-config re-architecture, not container rebuilds.
+- **Mutekra — Full Stack Engineer** *(Mar 2025 → Feb 2026)*. Shipped Musymptra (clinical symptom-triage with OCR + LangGraph-gated questionnaires), Musupportra (ISP Tier 1 orchestrator across voice/chat/WhatsApp), Muswarm (real-time multi-agent visualization with MCP sub-agent orchestration).
+- **Revelo — Frontend AI Evaluator** *(Mar 2026 → present)*. Figma → vanilla HTML/CSS/JS golden-solution components for frontier LLM training data.
 
+---
 
+#### Stack I actually reach for
 
+**AI/Agents** — LangChain · LangGraph · MCP · OpenAI · Anthropic · RLHF · agent evals · Qdrant
+**Frontend** — React · Next.js · Remix · Redux · React Query · Tailwind · Figma-to-code
+**Backend** — FastAPI · Node · Express · Ruby on Rails · WebSockets · Twilio
+**Data** — PostgreSQL · Redis · DynamoDB · MongoDB · ElastiCache
+**Cloud / DevOps** — AWS (EC2 Graviton, RDS, OpenSearch, Kinesis, CloudFormation) · Docker · Ansible · Datadog · Sumo Logic
+**Languages** — TypeScript · Python · Kotlin · Go · Ruby · Rust · C++ · Java
+**Testing** — pytest · JUnit · Jest · Cargo · Playwright · Android instrumentation
+
+---
+
+<a href="https://github.com/misalazeem">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misalazeem&layout=compact&theme=vision-friendly-dark&hide=html,css&langs_count=8" alt="Top languages" />
+</a>
